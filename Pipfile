@@ -9,6 +9,7 @@ django-cors-headers = "*"
 djangorestframework = "*"
 watchfiles = "==0.22.0"
 black = "==24.8.0"
+dotenv = "*"
 
 [dev-packages]
 
